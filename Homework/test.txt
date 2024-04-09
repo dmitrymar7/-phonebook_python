@@ -1,0 +1,1 @@
+<phonebook><record><name>Вася</name><telephone>23432432</telephone><comment>комментарий для Васи</comment></record></phonebook>
